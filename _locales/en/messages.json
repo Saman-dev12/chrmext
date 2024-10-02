@@ -1,0 +1,11 @@
+{
+    "appName": {
+      "message": "Tab Title Picker",
+      "description": "The name of the extension"
+    },
+    "appDescription": {
+      "message": "Automatically picks up the title of the current tab and shows it in the popup.",
+      "description": "The description of the extension"
+    }
+  }
+  
